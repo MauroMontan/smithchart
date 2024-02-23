@@ -3,4 +3,4 @@
 Just a plaint draw of the Smith chart but resizeble.
 
 
-![smith chart](./screenshot/smithChart.png) 
+![smith chart](./screenshots/smithchart.png) 
